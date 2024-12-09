@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+out/
+
+# TypeScript configuration file
+tsconfig.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jest or other testing frameworks output
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Yarn lock file for lock-based package manager
+yarn.lock
+
+# Other build files
+*.tgz
+
+# Optional eslint cache
+.eslintcache

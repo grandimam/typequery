@@ -1,0 +1,19 @@
+{
+  "name": "typequery",
+  "version": "1.0.0",
+  "description": "Typescript based query builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sqlite3": "^5.1.7",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
